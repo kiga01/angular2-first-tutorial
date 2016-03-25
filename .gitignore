@@ -34,3 +34,5 @@ node_modules
 
 
 .idea
+app/*.js
+app/*.js.map
